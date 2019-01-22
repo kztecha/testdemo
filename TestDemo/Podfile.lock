@@ -1,0 +1,20 @@
+PODS:
+  - KZBaseKit (0.0.0.18)
+  - KZDebugTool (10.1.0.12):
+    - KZBaseKit (= 0.0.0.18)
+
+DEPENDENCIES:
+  - KZDebugTool
+
+SPEC REPOS:
+  https://github.com/kztecha/kzspec.git:
+    - KZBaseKit
+    - KZDebugTool
+
+SPEC CHECKSUMS:
+  KZBaseKit: 865de8d815173b9e0526f225a8c8f7cb6a51db67
+  KZDebugTool: efe04df2afb1a1b5ab56691c51b592079a35219c
+
+PODFILE CHECKSUM: fb0d64ec7038c7940b417856a8efc49c8c8d7dc2
+
+COCOAPODS: 1.5.3
